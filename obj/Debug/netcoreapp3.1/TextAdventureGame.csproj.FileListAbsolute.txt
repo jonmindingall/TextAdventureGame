@@ -1,0 +1,13 @@
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\obj\Debug\netcoreapp3.1\TextAdventureGame.csprojAssemblyReference.cache
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\obj\Debug\netcoreapp3.1\TextAdventureGame.AssemblyInfoInputs.cache
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\obj\Debug\netcoreapp3.1\TextAdventureGame.AssemblyInfo.cs
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\obj\Debug\netcoreapp3.1\TextAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\bin\Debug\netcoreapp3.1\TextAdventureGame.exe
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\bin\Debug\netcoreapp3.1\TextAdventureGame.deps.json
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\bin\Debug\netcoreapp3.1\TextAdventureGame.runtimeconfig.json
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\bin\Debug\netcoreapp3.1\TextAdventureGame.runtimeconfig.dev.json
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\bin\Debug\netcoreapp3.1\TextAdventureGame.dll
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\bin\Debug\netcoreapp3.1\TextAdventureGame.pdb
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\obj\Debug\netcoreapp3.1\TextAdventureGame.dll
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\obj\Debug\netcoreapp3.1\TextAdventureGame.pdb
+C:\Users\jmind\OneDrive\Desktop\repos\TextAdventureGame\obj\Debug\netcoreapp3.1\TextAdventureGame.genruntimeconfig.cache

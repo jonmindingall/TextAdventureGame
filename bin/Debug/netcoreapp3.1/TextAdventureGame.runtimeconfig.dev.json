@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jmind\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jmind\\.nuget\\packages"
+    ]
+  }
+}
